@@ -1,7 +1,6 @@
 #ifndef AVL_H
 #define AVL_H
 
-// DO NOT ADD OR REMOVE ANYTHING FROM THIS FILE
 
 typedef enum Position {LEFT, RIGHT} Position;
 
