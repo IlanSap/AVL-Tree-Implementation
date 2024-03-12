@@ -2,14 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/****
-  Student1 name: Ilan Sapoznikov
-  Student2 name: Shahar Rozenberg
-
-  Student1 ID: 209147545
-  Student2 ID: 214544991
-****/
-
 
 /* Optional utility functions*/
 int util_max(int x, int y)
